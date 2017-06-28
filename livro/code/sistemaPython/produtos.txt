@@ -1,0 +1,3 @@
+0 - shampoo - R$: 8.00
+1 - sabonete - R$: 3.00
+2 - caneta - R$: 0.50
